@@ -36,7 +36,18 @@ h2{
     padding-right: 20px;
     text-align: justify;
 }
+#exp-second{
+    border-left: solid 7px;
+    border-image: linear-gradient(rgb(255, 196, 0), rgb(255, 61, 27)  );
+    border-image-slice: 1;
 
+}
+
+#exp-first{
+    border-left: 7px solid ;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
 p{
     font-weight: 500;
 }
@@ -69,4 +80,8 @@ h1{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+
+#fot{
+    text-align: center;
 }
