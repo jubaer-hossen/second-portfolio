@@ -1,6 +1,42 @@
 body{
     font-family: 'Uchen', serif;
+    margin: 0%;
 }
+h1{
+    font-size: 50px;
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+}
+.welcome{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.dream-Big{
+    background-image: url(images/Untitled-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+.exp{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.exp-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 0%;
+    padding-left: 30Px;
+    border-radius: 10px;
+    padding-bottom: 80px;
+    padding-right: 20px;
+    text-align: justify;
+}
+
 p{
     font-weight: 500;
 }
