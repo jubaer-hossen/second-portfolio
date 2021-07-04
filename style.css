@@ -1,0 +1,36 @@
+body{
+    font-family: 'Uchen', serif;
+}
+p{
+    font-weight: 500;
+}
+h1{
+    font-size: 50px;
+}
+
+.title-color{
+    color: orange;
+}
+.flexible-container{
+    display: flex;
+    padding-bottom: 150px;
+}
+
+.half{
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+}
+
+.half img{
+    width: 90%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
